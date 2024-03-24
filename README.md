@@ -1,5 +1,3 @@
-Hi there i'm Onur (aka Fanitonia)
-
 I'm a first year computer engineering student at Suleyman Demirel University.
 
 This profile is kinda empty right now but it will change :)
