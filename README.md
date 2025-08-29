@@ -1,5 +1,5 @@
 <div align = "center">
-  <p>I'm a computer engineering student from Turkey.</p>
+  <p>A computer engineering student from Turkey.</p>
 
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fanitonia&theme=vue-dark&show_icons=true&hide_border=true&layout=donut"> </img>
   
