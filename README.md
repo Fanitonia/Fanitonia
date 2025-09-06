@@ -16,6 +16,7 @@ A computer engineering student from Turkey.
 
 ### Frameworks & Libraries
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![XUnit](https://img.shields.io/badge/XUnit-purple)](#)
 
 ### Tools
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
