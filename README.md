@@ -1,8 +1,8 @@
 ## Hi! I'm Onur 👋
 A computer engineering student from Turkey.
 
-- Currently learning: React
-- Next goal: ASP.NET
+- Currently learning: React and building API's with ASP.NET 
+- Next goal: ???
 
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fanitonia&theme=vue-dark&show_icons=true&hide_border=true&layout=donut)
 
