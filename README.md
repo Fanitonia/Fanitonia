@@ -1,28 +1,20 @@
-## Hi! I'm Onur 👋
-A student from Turkey.
+## About Me
+I'm just a student trying to become a software developer, but I'm scared of AI. 
 
-- Currently learning: React & ASP.NET
-- Next goal: ???
+## My Tech Stack
 
-## Languages and Tools
-### Statistics
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fanitonia&theme=vue-dark&show_icons=true&hide_border=true&layout=donut)
-
-### Languages
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
-
-### Frameworks & Libraries
+### Frontend
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+
+### Backend
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-purple?logo=dotnet)
-[![XUnit](https://img.shields.io/badge/XUnit-purple)](#)
 
 ### Tools
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
 
 <!---
 signed by fanitonia (16.12.2023)
